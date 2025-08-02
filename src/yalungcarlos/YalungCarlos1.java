@@ -41,7 +41,7 @@ public class YalungCarlos1 {
            remark = "Very Good";
        }else{    
            remark = "Excellent";
-       }
+   }
     
         System.out.println("\nTotal Marks: " + total);
         System.out.printf("Total percentage: %.2f\n", percentage);
